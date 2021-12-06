@@ -16,6 +16,8 @@ public class Friends {
     }
 
  
+
+ 
     public int getId() {
         return id;
     }
